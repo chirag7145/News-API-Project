@@ -1,6 +1,7 @@
 class News{
     constructor(){
-        this.api_key = '594abf2653e543c880257c53c041cfd4';
+//      Put the api key to check out this project   
+        this.api_key = '';
         this.pageSize = 5;
     }
 
